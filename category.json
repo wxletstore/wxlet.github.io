@@ -1,0 +1,17 @@
+{
+    module:"最新小程序",
+    apps:[
+        {
+            name:"",
+            icon:"",
+            category:"",
+            tags:"",
+            updateTime:"",
+            submiter:"",
+            qrCode:"",
+            captures:["","",""],
+            content:"",
+            comment:""
+        }
+    ]
+}

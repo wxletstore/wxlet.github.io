@@ -1,0 +1,17 @@
+{
+    module:"热门排行",
+    apps:[
+        {
+            name:"",
+            icon:"",
+            category:"",
+            tags:"",
+            updateTime:"",
+            submiter:"",
+            qrCode:"",
+            captures:["","",""],
+            content:"",
+            comment:""
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    module:"看了{}的人还看了",
+    apps:[
+        {
+            name:"",
+            icon:"",
+            category:"",
+            tags:"",
+            updateTime:"",
+            submiter:"",
+            qrCode:"",
+            captures:["","",""],
+            content:"",
+            comment:""
+        }
+    ]
+}
